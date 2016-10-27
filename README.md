@@ -1,3 +1,7 @@
+# Important Note
+This project has moved to the OrleansContrib collection of projects. Please refer to this URL for all future project updates.
+https://github.com/OrleansContrib/Orleans.TelemetryConsumers.MetricsTracker
+
 # Orleans.TelemetryConsumers.MetricsTracker
 The MetricsTracker telemetry consumer for Orleans provides a high-speed, thread-safe metrics repository that consumes normal Orleans logging method calls from within grains and Orleans clients, tracks counter increment, decrement, and metric updates, and makes that data available on request to a metrics grain or by subscribing to a metrics virtual stream.
 
